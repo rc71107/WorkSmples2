@@ -1,0 +1,78 @@
+html, body{
+    background-color: hsl(219, 30%, 18%)!important;
+    max-width: 100%;
+    overflow-x: hidden;
+}
+.nav-item{
+    color: white;
+    margin: 0.5rem;
+
+}
+
+.thumbnail {
+    padding: .25rem;
+    background-color:hsl(219, 30%, 18%) !important;
+    max-width: 50%;
+    height: auto;
+    align-items: center;
+    text-align: center;
+    display: flex;
+}
+.figure-caption{
+    color: blanchedalmond;
+}
+
+.profile-img{
+    width: 50px;
+    height: 20px;
+    border-radius: 100%;
+}
+.job-profile{
+    margin-left: 3rem !important;
+    margin-top: -1rem !important;
+}
+.footer-text{
+    margin-left: 2rem !important;
+    margin-top: -1.5rem !important;
+}
+.a-footer,.a-hedear{
+    text-decoration: none;
+    color: rgb(245, 237, 237);
+}
+.wave{
+    margin-bottom: -2rem!important;
+    margin-top: -5rem !important;
+}
+.bottom-card{
+    margin:-14;
+}
+.header-color{
+    background-color: hsl(219, 30%, 18%) !important;
+    color: white !important;
+}
+.text-main{
+    color: white !important;
+    position: relative !important;
+}
+.btn-color{
+    background-color: hsl(176, 68%, 64%) !important;
+}
+.wave{
+     background-color:  hsl(219, 30%, 18%);
+     margin-top: -2rem;
+}
+.main{
+    background-color: hsl(218, 28%, 13%);
+    color: white !important;
+}
+.profile-card{
+    width: 23rem !important;
+    background-color:hsl(217, 28%, 15%) !important;
+    
+}
+.footer-bgcolor{
+   background-color:hsl(216, 53%, 9%);
+}
+.margin{
+    margin-bottom: 4rem !important;
+}
